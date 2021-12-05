@@ -3,7 +3,8 @@ Bachelor final thesis on "Odometry and Localization estimation of a mobile robot
 CONTACT ME FOR THE DATA!
 
 ## Original README
-J.P.M. Verhagen
+<!-- language: lang-none -->
+    J.P.M. Verhagen
 BEP: Odometry and localization esitmation of a mobile robot with multiple
 swivel wheels
 Written on: 27-01-2019
