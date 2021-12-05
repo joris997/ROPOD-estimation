@@ -1,6 +1,7 @@
 # ROPOD_estimation
 Bachelor final thesis on "Odometry and Localization estimation of a mobile robot with multiple swivel wheels"
-CONTACT ME FOR THE DATA!
+
+CONTACT ME FOR THE DATA! (the .mat datafiles are too large/cumbersome for github and I don't want to host)
 
 ## Original README
 <!-- language: lang-none -->
